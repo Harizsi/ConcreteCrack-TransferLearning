@@ -11,9 +11,14 @@ structural failures.
 ![model](https://github.com/user-attachments/assets/afb2fc67-eb3a-4224-990f-d75a36c69993)
 
 ## Model Evaluation
+Based on the image, it shows that the accuracy of the model's prediction 
+is 0.99 which is 99% in percent and the loss is 0.004 which is almost 0%.
+
 <img width="652" alt="Screenshot 2024-11-14 at 6 18 00 PM" src="https://github.com/user-attachments/assets/90142769-698d-45d0-8fe5-9d7badaf0850">
 
 ## Results
+Each images has been predicted correctly.
+
 ![results](https://github.com/user-attachments/assets/bbac6b9d-4c1e-43ef-8410-c9d3097c5edd)
 
 ## Data Source
